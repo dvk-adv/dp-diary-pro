@@ -13,6 +13,7 @@ Blood pressure measurement Diary
 This software is designed and operated in full compliance with the European Union’s 
 General Data Protection Regulation (GDPR) and the United States’ Health Insurance 
 Portability and Accountability Act (HIPAA)
+<a href="docs/ru/privacy-ru.html">Read the full text of Privacy Policies</a>
 
 👉 [Read full documentation in English](docs/en/README.en.md)
 
