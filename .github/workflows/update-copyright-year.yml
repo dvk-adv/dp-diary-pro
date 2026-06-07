@@ -1,0 +1,28 @@
+name: Update Copyright Year
+
+on:
+  schedule:
+    # Запускается 1 января каждого года в 00:00 по UTC
+    - cron: '0 0 1 1 *'
+  workflow_dispatch: # Для ручной проверки (можно запустить вручную во вкладке Actions)
+
+jobs:
+  update-year:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update year in README.md
+        run: |
+          CURRENT_YEAR=$(date +%Y)
+          # Эта команда найдет [202X] и заменит на текущий год, например [2027]
+          # Если у вас формат © [202X], замените регулярку на: s/© \[[0-9]\{4\}\]/© [$CURRENT_YEAR]/g
+          sed -i "s/\[[0-9]\{4\}\]/[$CURRENT_YEAR]/g" README.md
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: автоматическое обновление года на $CURRENT_YEAR"
+          file_pattern: README.md
+          branch: main # Укажите вашу основную ветку (main или master)
