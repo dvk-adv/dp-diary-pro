@@ -17,6 +17,8 @@ Portability and Accountability Act (HIPAA)
 
 👉 [Read full documentation in English](docs/en/README.en.md)
 
+[🟠 Поддержать в Bitcoin (BTC)](bitcoin:ВАШ_BTC_АДРЕС)
+[🔷 Поддержать в Ethereum (ETH)](ethereum:ВАШ_ETH_АДРЕС)
 ---
 
 ### 🇷🇺 Русский
@@ -27,4 +29,6 @@ Portability and Accountability Act (HIPAA)
 
 👉 [Читать полную документацию на русском](docs/ru/README.ru.md)
 
+[🟠 Поддержать в Bitcoin (BTC)](bitcoin:ВАШ_BTC_АДРЕС)
+[🔷 Поддержать в Ethereum (ETH)](ethereum:ВАШ_ETH_АДРЕС)
 # 
