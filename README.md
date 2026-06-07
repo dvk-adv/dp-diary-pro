@@ -1,2 +1,2 @@
 # dp-diary-pro
-Blood Plessure Diary
+Blood pressure measurement Diary
