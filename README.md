@@ -16,6 +16,7 @@ Portability and Accountability Act (HIPAA)
 <a href="docs/en/privacy-en.html">Read the full text of Privacy Policies</a>
 
 👉 [Read full documentation in English](docs/en/README.en.md)
+
 ---
 
 <h3>Support the Project</h3>
@@ -33,6 +34,7 @@ Portability and Accountability Act (HIPAA)
 <a href="docs/ru/privacy-ru.html">Полная версия Политик</a>
 
 👉 [Читать полную документацию на русском](docs/ru/README.ru.md)
+
 ---
 
 <h3>Поддержать проект</h3>
