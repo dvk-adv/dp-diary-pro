@@ -4,7 +4,11 @@ on:
   schedule:
     # Запускается 1 января каждого года в 00:00 по UTC
     - cron: '0 0 1 1 *'
-  workflow_dispatch: # Для ручной проверки (можно запустить вручную во вкладке Actions)
+  workflow_dispatch: # Для ручной проверки
+
+# ДОБАВЛЕННАЯ СТРОКА: принудительно используем Node.js 24, чтобы убрать предупреждение
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   update-year:
@@ -16,8 +20,7 @@ jobs:
       - name: Update year in README.md
         run: |
           CURRENT_YEAR=$(date +%Y)
-          # Эта команда найдет [202X] и заменит на текущий год, например [2027]
-          # Если у вас формат © [202X], замените регулярку на: s/© \[[0-9]\{4\}\]/© [$CURRENT_YEAR]/g
+          # Эта команда найдет [202X] и заменит на текущий год
           sed -i "s/\[[0-9]\{4\}\]/[$CURRENT_YEAR]/g" README.md
 
       - name: Commit and push if changed
