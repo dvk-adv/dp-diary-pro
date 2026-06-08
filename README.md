@@ -1,9 +1,6 @@
 # 🩺 dp-diary-pro
----
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ---
-
-Blood pressure measurement Diary
 
 <p align="center">
   🇬🇧 <a href="docs/en/README.en.md">English</a> | 🇷🇺 <a href="docs/ru/README.ru.md">Русский</a>
@@ -12,7 +9,7 @@ Blood pressure measurement Diary
 ---
 
 ### 🇬🇧 English
-
+Blood pressure measurement Diary
 
 This software is designed and operated in full compliance with the European Union’s 
 General Data Protection Regulation (GDPR) and the United States’ Health Insurance 
