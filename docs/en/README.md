@@ -6,7 +6,8 @@ A simple and reliable blood pressure and heart rate diary for the whole family
 Blood Pressure Diary • Pro is a lightweight web application for daily monitoring of blood pressure and heart rate.
 Created with care for people who want to monitor their cardiovascular health but don't want to deal with complex medical services.
 
-💡 Did you know? According to the WHO, over 1.28 billion adults worldwide suffer from hypertension. Regular self-monitoring of blood pressure reduces the risk of stroke by 40% and heart attack by 25%.
+💡 Did you know? According to the WHO, over 1.28 billion adults worldwide suffer from hypertension. 
+Regular self-monitoring of blood pressure reduces the risk of stroke by 40% and heart attack by 25%.
 🎯 Who Is This App For
 👨‍👩‍👧‍👦 Adults and Elderly People
 Hypertension and hypotension control
@@ -54,7 +55,8 @@ We take the protection of your medical data seriously:
 
 📄 MIT License — open source code that anyone can verify
 
-⚠️ Important: This application is not a medical device and does not replace medical consultation. All recommendations are for informational purposes only.
+⚠️ Important: This application is not a medical device and does not replace medical consultation. 
+All recommendations are for informational purposes only.
 
 💻 Ease of Use
 Three steps to get started:
@@ -82,7 +84,8 @@ Welcome:
 The project is distributed under the MIT License. Details in the LICENSE file.
 
 ⚠️ Disclaimer
-This application is for informational purposes only. It is not a medical device and does not replace professional medical consultation. For any health problems, consult a doctor.
+This application is for informational purposes only. It is not a medical device and does not replace 
+professional medical consultation. For any health problems, consult a doctor.
 
 📬 Contact
 📂 Repository: github.com/dvk-adv/dp-diary-pro
