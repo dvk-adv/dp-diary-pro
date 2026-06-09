@@ -5,6 +5,45 @@
 ### 🇬🇧 English
 Blood pressure measurement Diary
 
+A simple and reliable blood pressure and heart rate diary for the whole family
+
+📖 About the Project
+Blood Pressure Diary • Pro is a lightweight web application for daily monitoring of blood pressure and heart rate.
+Created with care for people who want to monitor their cardiovascular health but don't want to deal with complex medical services.
+
+💡 Did you know? According to the WHO, over 1.28 billion adults worldwide suffer from hypertension. 
+Regular self-monitoring of blood pressure reduces the risk of stroke by 40% and heart attack by 25%.
+🎯 Who Is This App For
+👨‍👩‍👧‍👦 Adults and Elderly People
+Hypertension and hypotension control
+Monitoring blood pressure trends
+Preparing reports for doctor visits
+
+🧑💼 Young People with Excess Weight
+Early prevention of cardiovascular diseases
+People with BMI > 25 are at risk — regular monitoring helps detect problems early
+Motivation for lifestyle changes through visual statistics
+👨‍👩‍👧 Families
+Multiple profiles in one app — the whole family can keep a diary on one device
+Quick switching between users in one click
+✨ Key Features
+Feature
+Description
+📝 Quick Entry
+Enter SBP, DBP, and pulse in 10 seconds
+🎤 Voice Input
+Just say three numbers — the app will record everything
+📊 Visual Graphs
+Blood pressure trends and value distribution
+🔔 Smart Alerts
+Automatic notifications for critical values
+👥 Multi-Profile
+Multiple users on one device
+📄 Report Export
+Generate DOCX documents for your doctor
+📤 CSV Export/Import
+Transfer data between devices
+
 This software is designed and operated in full compliance with the European Union’s 
 General Data Protection Regulation (GDPR) and the United States’ Health Insurance 
 Portability and Accountability Act (HIPAA)
