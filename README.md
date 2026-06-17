@@ -3,7 +3,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/dvk-adv/dp-diary-pro/blob/main/docs/en/LICENSE) 
 ---
-<a href="https://github.com/dvk-adv/dp-diary-pro/releases/tag/release">Download: GitHub</a>
+:arrow_right:<a href="https://github.com/dvk-adv/dp-diary-pro/releases/tag/release">Download: GitHub</a>
 ---
 
 ### 🇬🇧 English
